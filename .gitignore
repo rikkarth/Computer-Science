@@ -2,7 +2,7 @@
 /shelf/
 .DS_Store
 Computer-Science.iml
-.idea
+/.idea
 .gitignore
 # Editor-based HTTP Client requests
 /httpRequests/
