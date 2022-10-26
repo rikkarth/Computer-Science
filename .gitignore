@@ -1,7 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
 .DS_Store
+Computer-Science.iml
+.idea
+.gitignore
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
